@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dmitry\\Documents\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\Задача2.csproj": {}
+    "C:\\Users\\Dmitry\\Documents\\Обучение\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\Задача2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dmitry\\Documents\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\Задача2.csproj": {
+    "C:\\Users\\Dmitry\\Documents\\Обучение\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\Задача2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\Documents\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\Задача2.csproj",
+        "projectUniqueName": "C:\\Users\\Dmitry\\Documents\\Обучение\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\Задача2.csproj",
         "projectName": "Задача2",
-        "projectPath": "C:\\Users\\Dmitry\\Documents\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\Задача2.csproj",
+        "projectPath": "C:\\Users\\Dmitry\\Documents\\Обучение\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\Задача2.csproj",
         "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\Documents\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\obj\\",
+        "outputPath": "C:\\Users\\Dmitry\\Documents\\Обучение\\Знакомство с языками программирования Семинар\\Семинар1 ДЗ\\Задача2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config"

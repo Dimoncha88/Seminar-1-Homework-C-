@@ -17,3 +17,5 @@ else
     Console.Write("max = ");
     Console.WriteLine(NumB);
 }
+if (NumA == NumB)
+Console.Write("Числа равны");
