@@ -3,12 +3,14 @@
 Console.WriteLine("Введите число: ");
 int A = Convert.ToInt32(Console.ReadLine());
 
-if (A%2 == 0)
-{
-    Console.Write("Четное");
-}
+Console.WriteLine(A%2 == 0 ? $"Четное" : $"Нечетное");
 
-else 
-{
-    Console.Write("Нечетное");
-}
+//if (A%2 == 0)
+//{
+//    Console.Write("Четное");
+//}
+//
+//else 
+//{
+//    Console.Write("Нечетное");
+//}
